@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Run data the skills may leave behind: never commit real project data
+history/
+_testruns/
+_archive/
+feedback/
+*.log
+
+# Local and OS files
+.env
+*.env
+.DS_Store
+Thumbs.db
+desktop.ini
+*.zip
